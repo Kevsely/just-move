@@ -40,7 +40,7 @@ Developer:		:  Rakibul Islam Dewan
 */
 /* table of content - end
 ==================================================================================================== */
-@import url("https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;700&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
 /* 01 - global gettings - start
 ==================================================================================================== */
@@ -108,7 +108,7 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000C21;
-  font-family: "Goldman", cursive;
+  font-family: 'Baloo 2', cursive;
 }
 
 hr {
@@ -521,7 +521,7 @@ hr {
   display: block;
   font-size: 18px;
   color: #000C21;
-  font-family: "Goldman", cursive;
+  font-family: 'Baloo 2', cursive;
 }
 
 .primary_social_links li {
@@ -666,7 +666,7 @@ hr {
   border-radius: 4px;
   text-align: center;
   display: inline-block;
-  font-family: "Goldman", cursive;
+  font-family: 'Baloo 2', cursive;
   transition: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .custom_btn:hover {
@@ -697,7 +697,7 @@ hr {
   position: relative;
   color: #EA001E;
   display: inline-block;
-  font-family: "Goldman", cursive;
+  font-family: 'Baloo 2', cursive;
   transition: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
 .text_btn span:before {
@@ -770,7 +770,7 @@ hr {
   line-height: 0.6;
   font-size: 120px;
   margin-bottom: 20px;
-  font-family: "Goldman", cursive;
+  font-family: 'Baloo 2', cursive;
 }
 .has_serial_number .serial_number h4 {
   font-size: 24px;
@@ -1720,7 +1720,7 @@ button {
   line-height: 1;
   color: #ffffff;
   font-size: 24px;
-  font-family: "Goldman", cursive;
+  font-family: 'Baloo 2', cursive;
 }
 .banner_section .card .card-body {
   padding: 0px;
@@ -2372,6 +2372,10 @@ button {
   display: block;
   line-height: 1;
   background-color: #EA001E;
+}
+
+.slider_section {
+  height: 80vh;
 }
 
 .slider_section .main_left_arrow,
