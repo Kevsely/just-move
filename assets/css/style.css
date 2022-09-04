@@ -4104,6 +4104,10 @@ blockquote h4 {
 ==================================================================================================== */
 @media screen and (max-width: 680px) {
   /* home 1 - start */
+  .slider_section {
+    height: auto;
+  }
+
   .feature_vehicle_item .info_list li {
     width: 50%;
     border: none;
